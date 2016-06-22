@@ -1,5 +1,8 @@
 # Build
 
+## install node modules
+npm install
+
 ## build simple sample
 npm run build-simple
 
